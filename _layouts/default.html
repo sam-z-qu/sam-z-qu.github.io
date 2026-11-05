@@ -16,6 +16,7 @@
       {% endfor %}
     </nav>
   </header>
+  {% if site.photo %}<img class="site-photo" src="{{ site.photo | relative_url }}" alt="Photo of {{ site.title }}">{% endif %}
   <main>
     {{ content }}
   </main>
