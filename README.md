@@ -1,6 +1,4 @@
 # Sam's website
-Live at https://sam-z-qu.github.io. GitHub rebuilds the site a minute or so after any change.
-
 To edit a file on GitHub, open it, click the pencil icon, make your change, then click **Commit changes**.
 
 | To change | Edit |
