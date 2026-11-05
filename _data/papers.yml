@@ -1,0 +1,10 @@
+# Your working papers, newest first. They appear on the Research tab.
+# To add a paper, copy one block and edit it.
+# Leave out any line you don't need: coauthors, status, pdf, abstract.
+# For a PDF, upload it to the repo and put its file name after "pdf:".
+
+- title: "[Placeholder: title of your working paper]"
+  coauthors: "[Placeholder: coauthors, or delete this line]"
+  status: "[Placeholder: e.g. Manuscript, under review at Journal X]"
+  year: 2026
+  abstract: "[Placeholder: a short abstract. It appears behind an Abstract toggle.]"
