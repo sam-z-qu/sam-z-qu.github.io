@@ -4,10 +4,10 @@ permalink: /research/
 ---
 
 # Research
+Syntax: Movement, agreement, (anti-)locality, binding and reconstruction, finiteness and clause-size effects.    
+Semantics: Negation, event semantics, tense/aspect, temporal logic, modality, anaphora.  
 
-[Placeholder: one or two sentences on your research areas.]
-
-## Working papers
+## Working papers and slides
 
 <ul class="papers">
 {% for paper in site.data.papers %}
