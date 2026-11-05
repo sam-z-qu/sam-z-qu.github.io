@@ -52,7 +52,7 @@ li { margin-bottom: 0.4rem; }
 .papers { list-style: none; padding: 0; }
 .papers li { margin-bottom: 1.5rem; }
 .papers p { margin: 0; }
-.paper-title { font-weight: 600; }
+.paper-title { font-size: 0.95rem; font-weight: 600; }
 .paper-meta { color: var(--muted); font-size: 0.95rem; }
 details { margin-top: 0.3rem; font-size: 0.95rem; }
 summary { color: var(--accent); cursor: pointer; }
