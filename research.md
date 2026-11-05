@@ -9,7 +9,7 @@ permalink: /research/
 
 **Semantics:** negation, event semantics, tense and aspect, temporal logic, modality, and anaphora.
 
-## Working papers, slides, fieldwork data
+## Working papers & slides
 
 <ul class="papers">
 {% for paper in site.data.papers %}
