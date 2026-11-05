@@ -78,4 +78,4 @@ main { max-width: 44rem; margin: 0 auto; padding-left: 1rem; padding-right: 1rem
 footer { padding-left: max(1rem, calc(50% - 21rem)); padding-right: 1rem; }
 .site-photo { display: block; width: 9rem; height: auto; margin: 1.5rem 0 0 max(1rem, calc(50% - 21rem)); }
 @media (min-width: 60rem) { .site-header { justify-content: flex-start; gap: 0; padding-left: 0; padding-right: 0; } .site-name { flex: 0 0 calc(50% - 21rem); text-align: center; } }
-@media (min-width: 70rem) { .site-photo { position: absolute; left: calc(25% - 16rem); width: 11rem; margin: 2rem 0 0; } }
+@media (min-width: 70rem) { .site-photo { position: absolute; left: calc(25% - 16rem); width: 11rem; margin: 3.45rem 0 0; } }
