@@ -1,0 +1,73 @@
+:root {
+  --bg: #fbfaf7;
+  --text: #24231f;
+  --muted: #69665d;
+  --line: #dfdbd0;
+  --accent: #1d5c63;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1b1c;
+    --text: #e8e6e0;
+    --muted: #a5a299;
+    --line: #38393a;
+    --accent: #7cc4cb;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0 auto;
+  max-width: 44rem;
+  padding: 0 1rem;
+  background: var(--bg);
+  color: var(--text);
+  font: 1.0625rem/1.65 Charter, "Bitstream Charter", "Iowan Old Style", Georgia, Cambria, serif;
+  overflow-wrap: break-word;
+}
+a { color: var(--accent); text-underline-offset: 0.15em; }
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem 1.5rem;
+  padding: 1.75rem 0 0.75rem;
+  border-bottom: 1px solid var(--line);
+}
+.site-name { color: var(--text); font-size: 1.2rem; font-weight: 600; text-decoration: none; }
+nav { display: flex; gap: 1.25rem; }
+nav a {
+  padding: 0.25rem 0;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+nav a:hover { color: var(--text); }
+nav a[aria-current="page"] { color: var(--text); border-bottom-color: var(--accent); }
+main { padding: 2rem 0; }
+h1 { margin: 0 0 1rem; font-size: 1.9rem; line-height: 1.2; font-weight: 600; }
+h2 { margin: 2.25rem 0 0.6rem; font-size: 1.2rem; font-weight: 600; }
+ul { padding-left: 1.2rem; }
+li { margin-bottom: 0.4rem; }
+.papers { list-style: none; padding: 0; }
+.papers li { margin-bottom: 1.5rem; }
+.papers p { margin: 0; }
+.paper-title { font-weight: 600; }
+.paper-meta { color: var(--muted); font-size: 0.95rem; }
+details { margin-top: 0.3rem; font-size: 0.95rem; }
+summary { color: var(--accent); cursor: pointer; }
+details p { margin-top: 0.4rem; }
+.button {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  text-decoration: none;
+}
+footer {
+  padding: 1rem 0 2.5rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+footer a { color: inherit; }
