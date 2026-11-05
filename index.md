@@ -2,14 +2,12 @@
 title: About
 ---
 
-[Placeholder: your position and department, e.g. "I am a ... in the Department of ... at ..."]
+I am a research MA student in the Department of Linguistics at the University of British Columbia, working on syntax, semantics, and their interface.
 
-[Placeholder: two or three sentences on your research interests and what you are working on now.]
+You can find my CV here: [Curriculum vitae (PDF)](/cv.pdf)
+
+**November 2026:** I am doing fieldwork on Condition A reconstruction in Gitksan and working on negation and event anaphora in English and Mandarin.
 
 ## Contact
 
-[{{ site.email }}](mailto:{{ site.email }})
-
-## News
-
-- [Placeholder: e.g. "Nov 2026: Presenting at ..."]
+You can email me at either [{{ site.email }}](mailto:{{ site.email }}) or [samzqu.ling@gmail.com](mailto:samzqu.ling@gmail.com)
