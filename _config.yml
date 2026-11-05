@@ -1,4 +1,5 @@
 # Site settings. Change these and the whole site updates.
+title: Sam QU
 email: samqu@student.ubc.ca
 url: https://sam-z-qu.github.io
 description: Personal academic website of Sam Qu
@@ -6,6 +7,9 @@ description: Personal academic website of Sam Qu
 # Your CV. Upload a PDF to the repo, then set this to its name, e.g. cv.pdf
 # While it is empty, the CV page shows no download link.
 cv_pdf:
+
+# Your photo. Upload an image to the repo, then set this to its name, e.g. photo.jpg
+photo:
 
 # The tabs at the top of every page, in order.
 nav:
