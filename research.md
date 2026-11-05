@@ -5,9 +5,12 @@ permalink: /research/
 
 # Research
 
-**Syntax:** movement, agreement, (anti-)locality, binding and reconstruction, finiteness, and clause-size effects.
-
-**Semantics:** negation, event semantics, tense and aspect, temporal logic, modality, and anaphora.
+<dl class="research-areas">
+<dt>Syntax</dt>
+<dd>movement, agreement, (anti-)locality, binding and reconstruction, finiteness, clause-size effects</dd>
+<dt>Semantics</dt>
+<dd>negation, event semantics, tense and aspect, temporal logic, modality, anaphora</dd>
+</dl>
 
 ## Working papers & slides
 
