@@ -73,9 +73,9 @@ footer {
 footer a { color: inherit; }
 /* Full-width header and footer lines; the text column stays centred */
 body { max-width: none; padding: 0; }
-.site-header { padding-left: 2rem; padding-right: max(1rem, calc(50% - 21rem)); }
+.site-header { padding-left: max(1rem, calc(50% - 21rem)); padding-right: max(1rem, calc(50% - 21rem)); }
 main { max-width: 44rem; margin: 0 auto; padding-left: 1rem; padding-right: 1rem; }
 footer { padding-left: max(1rem, calc(50% - 21rem)); padding-right: 1rem; }
 .site-photo { display: block; width: 9rem; height: auto; margin: 1.5rem 0 0 max(1rem, calc(50% - 21rem)); }
-@media (max-width: 60rem) { .site-header { padding-left: 1rem; } }
-@media (min-width: 66rem) { .site-photo { position: absolute; left: 2rem; width: 11rem; margin: 2rem 0 0; } }
+@media (min-width: 60rem) { .site-header { justify-content: flex-start; gap: 0; padding-left: 0; padding-right: 0; } .site-name { flex: 0 0 calc(50% - 21rem); text-align: center; } }
+@media (min-width: 70rem) { .site-photo { position: absolute; left: calc(25% - 16rem); width: 11rem; margin: 2rem 0 0; } }
