@@ -9,7 +9,7 @@ description: Personal academic website of Sam Qu
 cv_pdf:
 
 # Your photo. Upload an image to the repo, then set this to its name, e.g. photo.jpg
-photo:
+photo: profile.jpg
 
 # The tabs at the top of every page, in order.
 nav:
