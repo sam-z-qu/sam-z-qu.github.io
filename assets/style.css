@@ -79,3 +79,6 @@ footer { padding-left: max(1rem, calc(50% - 21rem)); padding-right: 1rem; }
 .site-photo { display: block; width: 9rem; height: auto; margin: 1.5rem 0 0 max(1rem, calc(50% - 21rem)); }
 @media (min-width: 60rem) { .site-header { justify-content: flex-start; gap: 0; padding-left: 0; padding-right: 0; } .site-name { flex: 0 0 calc(50% - 21rem); text-align: center; } }
 @media (min-width: 70rem) { .site-photo { position: absolute; left: calc(25% - 16rem); width: 11rem; margin: 3.45rem 0 0; } }
+.site-photo img { display: block; width: 100%; height: auto; }
+.site-location { display: flex; align-items: center; justify-content: center; gap: 0.3rem; margin-top: 0.5rem; color: var(--muted); font-size: 0.9rem; }
+.site-location svg { width: 0.9em; height: 0.9em; fill: currentColor; flex: none; }
