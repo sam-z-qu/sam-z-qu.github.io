@@ -14,8 +14,6 @@ nav:
     url: /
   - title: Research
     url: /research/
-  - title: CV
-    url: /cv/
 
 defaults:
   - scope:
