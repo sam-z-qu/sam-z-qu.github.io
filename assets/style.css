@@ -82,3 +82,27 @@ footer { padding-left: max(1rem, calc(50% - 21rem)); padding-right: 1rem; }
 .site-photo img { display: block; width: 100%; height: auto; }
 .site-location { display: flex; align-items: center; justify-content: center; gap: 0.3rem; margin-top: 0.5rem; color: var(--muted); font-size: 0.9rem; }
 .site-location svg { width: 0.9em; height: 0.9em; fill: currentColor; flex: none; }
+
+.research-areas {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: .45rem 1.25rem;
+  margin: 1.25rem 0 0;
+  font-size: .9rem;
+  line-height: 1.5;
+}
+.research-areas dt {
+  padding-top: .16rem;
+  font-size: .72rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.research-areas dd {
+  margin: 0;
+  color: var(--muted);
+}
+@media (max-width: 520px) {
+  .research-areas { grid-template-columns: 1fr; gap: .1rem; }
+  .research-areas dd { margin-bottom: .6rem; }
+}
