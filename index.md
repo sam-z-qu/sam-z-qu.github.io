@@ -8,8 +8,9 @@ You can find my CV [here](/CV_2026_Nov.pdf)
 
 **November 2026:**
 
-- Doing fieldwork on Condition A reconstruction in [Gitksan](https://en.wikipedia.org/wiki/Gitxsan)
-- Working on negation and event anaphora in English and Mandarin
+- I'm doing fieldwork on Condition A reconstruction in [Gitksan](https://en.wikipedia.org/wiki/Gitxsan).
+- Working on negation and event anaphora in English and Mandarin.
+- Working on resumption in Mandarin relative clauses.  
 
 ## Contact
 
