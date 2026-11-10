@@ -6,7 +6,10 @@ I am a research MA student in the [Department of Linguistics](https://linguistic
 
 You can find my CV [here](/CV_2026_Nov.pdf)
 
-**November 2026:** I am doing fieldwork on Condition A reconstruction in [Gitksan](https://en.wikipedia.org/wiki/Gitxsan) and working on negation and event anaphora in English and Mandarin.
+**November 2026:**
+
+- Doing fieldwork on Condition A reconstruction in [Gitksan](https://en.wikipedia.org/wiki/Gitxsan)
+- Working on negation and event anaphora in English and Mandarin
 
 ## Contact
 
